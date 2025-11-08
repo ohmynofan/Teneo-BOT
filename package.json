@@ -14,9 +14,9 @@
     "extension",
     "node",
     "bot",
-    "rambeboy"
+    "ohmynofan"
     ],
-  "author": "Rambeboy",
+  "author": "Nofan Starboy",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.7.9",
